@@ -2,7 +2,7 @@
 layout: page
 title: Teaching & Outreach 
 permalink: /teaching/
---
+---
 
 ## Teaching
 
