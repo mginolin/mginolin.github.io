@@ -45,44 +45,47 @@ sample of 1,000 Type Ia Supernovae</em>
 ### Co-author
 ---
 
-<p style="margin-top:0.3cm;"> 8. <em>ZTF SNe Ia DR2: Towards cosmology-grade ZTF supernova light curves using scene modeling
+<p style="margin-top:0.3cm;"> 8. <em>ZTF-SEDm Type Ia supernova sample for Twins Embedding spectrophotometric standardisation </em>
+<br>Ganot, C. , Copin, Y. , Rigault, M. et al., 2025, submitted to A&amp;A - <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251207696G/abstract">ADS</a></p>
+
+<p> 9. <em>ZTF SNe Ia DR2: Towards cosmology-grade ZTF supernova light curves using scene modeling
 photometry</em>
 <br>Lacroix, L. , Regnault, N. , de Jaeger, T. et al., 2025, submitted to A&amp;A - <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv250904073L/abstract">ADS</a></p>
 
-<p> 9. <em>ZTF SN Ia DR2: Improved SN Ia colors through expanded dimensionality with SALT3+</em>
+<p> 10. <em>ZTF SN Ia DR2: Improved SN Ia colors through expanded dimensionality with SALT3+</em>
 <br>Kenworthy, W. D. , Goobar, A. , Jones, D. O. et al., 2025, A&amp;A, 697, A125 - <a href="https://ui.adsabs.harvard.edu/abs/2025A%26A...697A.125K/abstract">ADS</a></p>
 
-<p> 10. <em>ZTF SN Ia DR2: High-velocity components in the Si IIλ6355</em>
+<p> 11. <em>ZTF SN Ia DR2: High-velocity components in the Si IIλ6355</em>
 <br>Harvey, L. , Maguire, K. , Burgaz, U. et al., 2025, A&amp;A, 695, A264 - <a href="https://ui.adsabs.harvard.edu/abs/2025A&A...695A.264H/abstract">ADS</a></p>
 
-<p> 11. <em>ZTF SN Ia DR2: An environmental study of Type Ia supernovae using host galaxy image decomposition</em>
+<p> 12. <em>ZTF SN Ia DR2: An environmental study of Type Ia supernovae using host galaxy image decomposition</em>
 <br>Senzel, R. , Maguire, K. , Burgaz, U. et al., 2025, A&amp;A, 694, A14 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241111986S/abstract">ADS</a></p>
 
-<p> 12. <em>ZTF SN Ia DR2: Properties of the low-mass host galaxies of Type Ia supernovae in a volume-
+<p> 13. <em>ZTF SN Ia DR2: Properties of the low-mass host galaxies of Type Ia supernovae in a volume-
 limited sample</em>
 <br>Burgaz, U. , Maguire, K. , Dimitriadis, G. et al., 2025, A&amp;A, 694, A13 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv241214262B/abstract">ADS</a></p>
 
-<p> 13. <em>ZTF SN Ia DR2: The secondary maximum in Type Ia supernovae</em>
+<p> 14. <em>ZTF SN Ia DR2: The secondary maximum in Type Ia supernovae</em>
 <br>Deckers, M. , Maguire, K. , Shingles, L. et al., 2025, A&amp;A, 694, A12 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240619460D/abstract">ADS</a></p>
 
-<p> 14. <em>ZTF SN Ia DR2: The diversity and relative rates of the thermonuclear SN population</em>
+<p> 15. <em>ZTF SN Ia DR2: The diversity and relative rates of the thermonuclear SN population</em>
 <br>Dimitriadis, G. , Burgaz, U. , Deckers, M. et al., 2025, A&amp;A, 694, A10 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240904200D/abstract">ADS</a></p>
 
-<p> 15. <em>ZTF SN Ia DR2: The spectral diversity of Type Ia supernovae in a volume-limited sample</em>
+<p> 16. <em>ZTF SN Ia DR2: The spectral diversity of Type Ia supernovae in a volume-limited sample</em>
 <br>Burgaz, U. , Maguire, K. , Dimitriadis, G. et al., 2025, A&amp;A, 694, A9 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240706828B/abstract">ADS</a></p>
 
-<p> 16. <em>ZTF SN Ia DR2: Peculiar velocities impact on the Hubble diagram</em>
+<p> 17. <em>ZTF SN Ia DR2: Peculiar velocities impact on the Hubble diagram</em>
 <br>Carreres, B. , Rosselli, D. , Bautista, J. E. et al., 2025, A&amp;A, 694, A8 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240520409C/abstract">ADS</a></p>
 
-<p> 17. <em>ZTF SN Ia DR2: Exploring SN Ia properties in the vicinity of under-dense environments</em>
+<p> 18. <em>ZTF SN Ia DR2: Exploring SN Ia properties in the vicinity of under-dense environments</em>
 <br>Aubert, M. , Rosnet, P. , Popovic, B. et al., 2025, A&amp;A, 694, A7 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240611680A/abstract">ADS</a></p>
 
-<p> 18. <em>ZTF SN Ia DR2: Simulations and volume limited sample</em>
+<p> 19. <em>ZTF SN Ia DR2: Simulations and volume limited sample</em>
 <br>Amenouche, M. , Smith, M. , Rosnet, et al., 2025, A&amp;A, 694, A3 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240904650A/abstract">ADS</a></p>
 
-<p> 19. <em>ZTF SN Ia DR2: Study of Type Ia Supernova lightcurve fits</em>
+<p> 20. <em>ZTF SN Ia DR2: Study of Type Ia Supernova lightcurve fits</em>
 <br>Rigault, M. , Smith, M. , Regnault, N. et al., 2025, A&amp;A, 694, A2 - <a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240602073R/abstract">ADS</a></p>
 
-<p> 20. <em>Growth-rate measurement with type-Ia supernovae using ZTF survey simulations</em>
+<p> 21. <em>Growth-rate measurement with type-Ia supernovae using ZTF survey simulations</em>
 <br>Carreres, B. , Bautista, J. E. , Feinstein, F. et al., 2023, A&amp;A - <a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...674A.197C/abstract">ADS</a></p>
 
