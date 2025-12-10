@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Dr Madeleine Ginolin
-email: madeleine.ginolin@ast.cam.ac.uk
+email: madeleine.ginolin[AT]ast.cam.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   I am a researcher in observational cosmology, interested in Type Ia supernovae. I did my PhD (2022-2025) at the Institut de Physique des 2 Infinis in Lyon, France. I am currently a Research Associate at the Kavli Institute for Cosmology, Cambridge.  
 baseurl: "" # the subpath of your site, e.g. /blog
