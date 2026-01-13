@@ -9,10 +9,10 @@ I have given 20 talks in various national or international meetings and seminars
 ### Conferences
 ---
 
-<p> <em>The ZTF SN Ia DR2 and beyond</em>
+<p style="margin-top:0.3cm;"> <em>The ZTF SN Ia DR2 and beyond</em>
 <br> <strong>Invited </strong> - Action Dark Energy, November 2025, Montpellier, FR - <a href="https://indico.in2p3.fr/event/36618/contributions/164340/">Slides</a></p>
 
-<p style="margin-top:0.3cm;"> <em>Type Ia Supernovae properties and standardisation with the ZTF SN Ia DR2 sample </em>
+<p> <em>Type Ia Supernovae properties and standardisation with the ZTF SN Ia DR2 sample </em>
 <br><strong>Invited </strong> - Cosmic Lighthouses, July 2025, Cambridge, UK </p>
 
 <p> <em>Type Ia Supernovae standardisation for cosmology with the ZTF SN Ia DR2 sample</em>
