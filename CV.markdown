@@ -52,7 +52,7 @@ This a short version of my resume. The full CV is downloadable in [PDF]({{ site.
 ### Community Service
 --- 
 <p style="margin-top:0.3cm;"> <strong> Co-lead of the DESC SN Ia modelling topical team </strong>
-<br> June 2024 - November 2025 </p>
+<br> January 2026 - Now </p>
 
 <p style="margin-top:0.3cm;"> <strong> LSST-France EDI committe </strong>
 <br> June 2024 - November 2025 </p>
