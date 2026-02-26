@@ -37,8 +37,10 @@ sample</em>
 
 ### Seminars
 ---
+<p style="margin-top:0.3cm;"> <em>Type Ia supernovae for cosmology with the Zwicky Transient Facility</em>
+<br> Institute of Cosmology and Gravitation, February 2026, Portsmouth, UK
 
-<p style="margin-top:0.3cm;"> <em>Cosmology with Type Ia Supernovae and the ZTF SN Ia DR2 sample</em>
+<p> <em>Cosmology with Type Ia Supernovae and the ZTF SN Ia DR2 sample</em>
 <br> Laboratoire de Physique de Clermont Auvergne, January 2025, Clermont-Ferrand, FR - <a href="{{ site.baseurl }}/slides/GINOLIN_LPCA_seminar.pdf">Slides</a></p>
 
 <p> <em>Type Ia Supernovae standardisation with the ZTF SN Ia DR2 sample</em>
