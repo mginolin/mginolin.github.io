@@ -45,14 +45,20 @@ sample of 1,000 Type Ia Supernovae</em>
 ### Co-author
 ---
 
-<p style="margin-top:0.3cm;"> 8. <em> Lightcurve Modelling of 2,205 ZTF DR2 Type Ia Supernovae: Implications for SN Ia Physics and Cosmology  </em>
+<p style="margin-top:0.3cm;"> 8. <em> Illuminating the Local Universe: Large-Scale Structure from ZTF Type Ia Supernovae  </em>
+<br>Gilles Lordet, A. , Goobar, A. , Jasche, J. et al., 2026, submitted to MNRAS - <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260412714G/abstract">ADS</a></p>
+
+<p> 8. <em> FlowSN: Neural Simulation-Based Inference under Realistic Selection Effects applied to Supernova Cosmology  </em>
+<br>Boyd, B. M. , Mandel, K. S. , Grayling, M. et al., 2026, submitted to MNRAS - <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260311165B/abstract">ADS</a></p>
+
+<p> 8. <em> Lightcurve Modelling of 2,205 ZTF DR2 Type Ia Supernovae: Implications for SN Ia Physics and Cosmology  </em>
 <br>Sarin, N. , Lindsjö, E. , Kelsey, L. et al., 2026, submitted to MNRAS - <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260202677S/abstract">ADS</a></p>
 
 <p> 9. <em> Study of the anisotropy of cosmic expansion on ZTF type Ia supernovae simulations  </em>
 <br>Barjou-Delayre, C. , Rosnet, P. , Ravoux, C. et al., 2026, submitted to A&amp;A - <a href="https://ui.adsabs.harvard.edu/abs/2026arXiv260111139B/abstract">ADS</a></p>
 
 <p> 10. <em>ZTF SN Ia DR2 follow-up: Characterization of subluminous Type Ia supernovae in the ZTF DR2 full sample </em>
-<br>Alburai, A. , Galbany, L. , Burgaz, U. et al., 2025, submitted to A&amp;A - <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251221256A/abstract">ADS</a></p>
+<br>Alburai, A. , Galbany, L. , Burgaz, U. et al., 2026, A&amp;A, 707, A91 - <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251221256A/abstract">ADS</a></p>
 
 <p> 11. <em>ZTF-SEDm Type Ia supernova sample for Twins Embedding spectrophotometric standardisation </em>
 <br>Ganot, C. , Copin, Y. , Rigault, M. et al., 2025, submitted to A&amp;A - <a href="https://ui.adsabs.harvard.edu/abs/2025arXiv251207696G/abstract">ADS</a></p>

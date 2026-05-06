@@ -14,7 +14,8 @@ This a short version of my resume. The full CV is downloadable in [PDF]({{ site.
 <br> Cambridge, UK, October 2025 - Now </p>
 
 * Investigating the environmental dependencies of Type Ia supernovae with Hierarchical Bayesian modelling
-* Involvement in LSST and TiDES
+* Involvement in LSST/DESC, TiDES and YSE
+* Simulation of SNe Ia for Simulation-Based Inference
 
 <p style="margin-top:0.3cm;"> <strong> PhD student - Institut de Physique des 2 Infinis/Université Claude Bernard Lyon 1 </strong>
 <br> Lyon, FR, September 2022 - September 2025 
