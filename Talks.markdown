@@ -37,9 +37,10 @@ sample</em>
 
 ### Seminars
 ---
-<p style="margin-top:0.3cm;"> <em>Type Ia supernovae for cosmology with the Zwicky Transient Facility</em>
-<br> Institute of Cosmology and Gravitation, February 2026, Portsmouth, UK
 
+<p style="margin-top:0.3cm;"> <em>Type Ia supernovae for cosmology with the Zwicky Transient Facility</em>
+<br> Institute of Cosmology and Gravitation, February 2026, Portsmouth, UK </p>
+    
 <p> <em>Cosmology with Type Ia Supernovae and the ZTF SN Ia DR2 sample</em>
 <br> Laboratoire de Physique de Clermont Auvergne, January 2025, Clermont-Ferrand, FR - <a href="{{ site.baseurl }}/slides/GINOLIN_LPCA_seminar.pdf">Slides</a></p>
 
@@ -49,11 +50,13 @@ sample</em>
 <p> <em>Type Ia Supernovae standardisation with the ZTF SN Ia DR2 sample</em>
 <br> Astrophysics Department, University of Oxford, November 2024, Oxford, UK - <a href="{{ site.baseurl }}/slides/Oxford_seminar_GINOLIN.pdf">Slides</a></p>
 
-
-### Collaboration meetings
+### Collaboration meetings and workshops
 ---
 
-<p style="margin-top:0.3cm;"> <em>Updates on the simulations of the ZTF+HSC+SNLS sample</em>
+<p style="margin-top:0.3cm;"> <em>Type Ia Supernovae for cosmology with the ZTF SN Ia DR2 sample</em>
+<br> Cosmic Fireworks, January 2026, Cambridge, UK </p>
+
+<p> <em>Updates on the simulations of the ZTF+HSC+SNLS sample</em>
 <br> ZTF Cosmo, December 2024, Barcelona, ES </p>
 
 <p> <em>Updates on the ZTF SN Ia DR2 papers</em>
@@ -79,3 +82,9 @@ sample</em>
 
 <p> <em>The ZTF Type Ia Supernovae volume limited sample</em>
 <br> ZTF Cosmo, May 2022, Paris, FR </p>
+
+### Posters
+---
+
+<p style="margin-top:0.3cm;"> <em>A BayeSN view of the ZTF SN Ia DR2</em>
+<br> Future Landscape of Astrophysical Transients, IAU Symposium 406, May 2026, Turku, FIN - <a href="{{ site.baseurl }}/slides/IAU_poster_GINOLIN.pdf">Poster</a></p>
