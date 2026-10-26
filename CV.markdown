@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-This a short version of my resume. The full CV is downloadable in [PDF]({{ site.baseurl }}/CV_GINOLIN.pdf).
+This a short version of my resume. The full CV is downloadable in [PDF]({{ site.baseurl }}/CV_Ginolin.pdf).
 
 
 ### Research
