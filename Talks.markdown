@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-I have given 20 talks in various national or international meetings and seminars, as listed below. I have put the associated slides and proceedings when available. Feel free to use any of the plots but please cite the associated papers (in general [Ginolin+25a](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A...4G/abstract) or [Ginolin+25b](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.140G/abstract)) if you do!
+I have given more than 20 talks in various national or international meetings and seminars, as listed below. I have put the associated slides and proceedings when available. Feel free to use any of the plots but please cite the associated papers (in general [Ginolin+25a](https://ui.adsabs.harvard.edu/abs/2025A%26A...694A...4G/abstract) or [Ginolin+25b](https://ui.adsabs.harvard.edu/abs/2025A%26A...695A.140G/abstract)) if you do!
 
 ### Conferences
 ---
@@ -53,7 +53,13 @@ sample</em>
 ### Collaboration meetings and workshops
 ---
 
-<p style="margin-top:0.3cm;"> <em>Type Ia Supernovae for cosmology with the ZTF SN Ia DR2 sample</em>
+<p style="margin-top:0.3cm;"> <em>A BayeSN view of the environmental step in the ZTF DR2</em>
+<br> ZTF Cosmo, September 2026, Paris, FR </p>
+
+<p> <em>A BayeSN view of the environmental step in the ZTF DR2</em>
+<br> New Generation of SN Surveys Mini-Workshop, June 2026, Oxford, UK </p>
+
+<p> <em>Type Ia Supernovae for cosmology with the ZTF SN Ia DR2 sample</em>
 <br> Cosmic Fireworks, January 2026, Cambridge, UK </p>
 
 <p> <em>Updates on the simulations of the ZTF+HSC+SNLS sample</em>

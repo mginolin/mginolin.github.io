@@ -32,6 +32,17 @@ This a short version of my resume. The full CV is downloadable in [PDF]({{ site.
 * Use of N-body dark matter (Legacy) and hydrodynamics (IllustrisTNG) simulations
 
 
+### Community Service
+--- 
+<p style="margin-top:0.3cm;"> <strong> Co-lead of DESC DP2 SN Ia cosmology simulations </strong>
+<br> August 2026 - Now </p>
+
+<p style="margin-top:0.3cm;"> <strong> Co-lead of the DESC SN Ia modelling topical team </strong>
+<br> January 2026 - Now </p>
+
+<p style="margin-top:0.3cm;"> <strong> LSST-France EDI committe </strong>
+<br> June 2024 - November 2025 </p>
+
 ### Education
 --- 
 
@@ -49,12 +60,4 @@ This a short version of my resume. The full CV is downloadable in [PDF]({{ site.
 
 <p style="margin-top:0.3cm;"> <strong> Classes préparatoires </strong>
 <br> Lycée du Parc, 2016-2018 </p>
-
-### Community Service
---- 
-<p style="margin-top:0.3cm;"> <strong> Co-lead of the DESC SN Ia modelling topical team </strong>
-<br> January 2026 - Now </p>
-
-<p style="margin-top:0.3cm;"> <strong> LSST-France EDI committe </strong>
-<br> June 2024 - November 2025 </p>
 
